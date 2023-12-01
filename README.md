@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Madhu Lamichhane 
 - 👀 I’m interested in modeling e-mobility, esp. getting FCEV to market
-- 🌱 I’m currently learning Julia, Python and GAMS, along with different modeling approaches like 'discrete choice modeling'
 - 💞️ I’m a PhD scholar at University of California Davis
   
 
