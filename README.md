@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhu Lamichhane 
-- 👀 I’m interested in modeling e-mobility, esp. getting FCEV to market
-- 💞️ I’m a PhD scholar at University of California Davis
+- 👀 I’m interested in optimization, modeling e-mobility, and using hydrogen energy in transportation.
+- 💞️ I’m a PhD student at University of California Davis
   
 
 <!---
